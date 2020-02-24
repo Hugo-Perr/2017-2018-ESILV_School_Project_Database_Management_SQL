@@ -1,0 +1,25 @@
+<M2_client_confirmation>
+  <numSejour>ETKN8U72IDF</numSejour>
+  <client>
+    <nomClient>Kimzz</nomClient>
+    <numClient>UNLHAZ7M6RW</numClient>
+  </client>
+  <nomTheme>KOA</nomTheme>
+  <dateSejour>2018-14</dateSejour>
+  <statutSejour>sejour valide</statutSejour>
+  <logementReserve>
+    <numLogement>294489</numLogement>
+    <prixLogement>174</prixLogement>
+  </logementReserve>
+  <voitureReservee>
+    <idVoiture>A5E 2S3</idVoiture>
+    <caracteristiques>
+      <marque>Daihatsu</marque>
+      <model>Cabriolet 2 places</model>
+    </caracteristiques>
+    <emplacement>
+      <parking>Victor Hugo</parking>
+      <place>A0</place>
+    </emplacement>
+  </voitureReservee>
+</M2_client_confirmation>
